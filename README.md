@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #School H.W
 
 * git init
@@ -12,3 +13,7 @@
 
 * git commit -a -m "updated"
 * git push -u origin master
+=======
+#What Would Bib Do?
+##Advanced Web Design Final Project
+>>>>>>> 75edbe27b0666bca1e4a0c99f6af397314797958
