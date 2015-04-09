@@ -1,5 +1,4 @@
-#School Project
-School is so awesome
+#School H.W
 
 * git init
 * git status
